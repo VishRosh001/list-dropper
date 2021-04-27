@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.list.dropper.fileslist.FilesActivity">
+
+    <item
+        android:id="@+id/action_open"
+        android:title="Open"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_save"
+        android:title="Bookmark"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListDropper</string>
+    <string name="dropbox_key">cziy94eud83o52t</string>
+    <string name="dropbox_secret">rz8so7vdb9z3t54</string>
+    <string name="version_name">v0.0.1 Build 2</string>
+</resources>
